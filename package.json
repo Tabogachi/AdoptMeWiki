@@ -1,0 +1,32 @@
+{
+    "embeds": [
+      {
+        "author": {
+          "name": "Appeal Bot",
+          "url": "https://adoptme.fandom.com/wiki/User:TaboWasHere",
+        },
+        "title": "**New Appeal**",
+        "color": {
+            "hex": "#c634eb"
+        },
+        "fields": [
+          {
+            "name": "Author",
+            "value": "`author name`",
+            "inline": true
+          },
+          {
+            "name": "Link",
+            "value": "`link`",
+            "inline": true
+          },
+          {
+            "name": "Date",
+            "value": "`wip`",
+            "inline": true
+
+          }
+        ]
+      }
+    ]
+  }
